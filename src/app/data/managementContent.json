@@ -28,8 +28,8 @@
         {
             "title": "Leadership",
             "paragraphs": [
-              "This studies how people interact within groups.",
-              "Motivation, leadership, team dynamics are key areas."
+                "<p class='bg-yellow-200 italic'><b>🎯 Leadership</b></p><p class='pt-2'><b>📘 Concept:</b> Leadership is the ability to influence and guide individuals or teams toward achieving goals using vision, communication, and motivation.</p><ul class='list-disc list-inside pt-2'><li><b>🧬 Trait Theory:</b> Emphasizes inherent traits like intelligence, integrity, and sociability; limited by situational blind spots.</li><li><b>🧠 Behavioral Theory:</b> Focuses on leader actions—task-oriented (initiating structure) and people-oriented (consideration); balance is key.</li><li><b>⚖️ Contingency Theory:</b> Leadership effectiveness depends on situation; Fiedler and Hersey-Blanchard models emphasize leader-task-team fit.</li><li><b>✨ Charismatic Leadership:</b> Leaders inspire through personal charm, communication, and vision; high influence but needs balance.</li><li><b>🤝 Transactional Leadership:</b> Based on performance-reward structure, useful in routine and operational roles with clear expectations.</li><li><b>🚀 Transformational Leadership:</b> Inspires innovation, vision, and personal growth; ideal for reforms, digital shifts, and RBI modernization.</li><li><b>🏢 RBI Context:</b> Transformational leadership aids innovation; transactional fits compliance roles; contingency useful during policy shifts.</li></ul>                ",
+               "Motivation, leadership, team dynamics are key areas."
             ]
           }
       ]
