@@ -1,0 +1,60 @@
+[
+    {
+      "title": "Fundamentals of Management & Organizational Behaviour",
+      "subcategories": [
+        {
+          "title": "What is Management?",
+          "paragraphs": [
+            "Management is the process of <strong>planning</strong>, <em>organizing</em>, and <u>controlling</u> resources.",
+            "It includes tasks like <a href='https://en.wikipedia.org/wiki/Management' target='_blank'>decision-making</a> and problem-solving."
+          ]
+        },
+        {
+          "title": "Organizational Behaviour",
+          "paragraphs": [
+            "This studies how people interact within groups.",
+            "Motivation, leadership, team dynamics are key areas."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ethics at the Workplace & Corporate Governance",
+      "subcategories": [
+        {
+          "title": "Workplace Ethics",
+          "paragraphs": [
+            "Ethics guide acceptable behavior in professional settings.",
+            "Common ethics include <strong>integrity</strong>, <em>honesty</em>, and respect for others."
+          ]
+        },
+        {
+          "title": "Corporate Governance",
+          "paragraphs": [
+            "Corporate Governance ensures accountability in business practices.",
+            "Board of Directors play a key role in oversight and transparency."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Communication",
+      "subcategories": [
+        {
+          "title": "Verbal Communication",
+          "paragraphs": [
+            "Verbal communication includes spoken and written messages.",
+            "Clarity, tone, and choice of words matter."
+          ]
+        },
+        {
+          "title": "Non-verbal Communication",
+          "paragraphs": [
+            "Body language, facial expressions, and gestures convey messages.",
+            "Listening is also a key part of communication."
+          ]
+        }
+      ]
+    }
+  ]
+  
